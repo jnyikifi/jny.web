@@ -1,0 +1,70 @@
+# -*- coding: utf-8 -*-
+#+STARTUP: overview
+
+* About the name jny
+
+This is actually an explanation of the origin of my username as many
+persons have asked me where the username and email address jny comes
+from.
+
+When I started studying at HUT, the computer science students had
+their own set of Unix servers. They were some kind of Altos machines
+if I remember correctly. The rest of the students were left with a
+couple of Vaxes running some kind of BSD Unix, I guess.
+
+These machines were administered separately and while you got lame
+usernames like knyberg in the Vaxes, the Altos machines had cool
+three-letter user names, like jny.
+
+The reason I got the username jny is in a sense a mistake. Normally,
+the names were something like the first letter of your given name and
+two letters of your surname. Now, although I am called Kristoffer, my
+parents were smart enough to give me two more names, John Folke, which
+they put in front of Kristoffer. This of course opens up endless
+possibilities for mistakes.
+
+So the j in jny comes from John. I have since got attached to the
+a-bit-off username and managed to keep it in my now eternal email
+address using the excellent service of IKI.
+
+* CV
+
+** Personal fact file
+
+- Name: Kristoffer Nyberg
+- Birth: 17th May 1968, in Helsinki, Finland
+- Live: in Espoo, Finland
+- Email: jny@iki.fi.
+- Languages: Swedish (my mother tongue), Finnish (Good), English
+  (Good), German (fair)
+
+** Education
+
+Title: Master of Science in Technology
+
+- 1987-1997 Helsinki University of Technology, Department of Computer
+  Science. Specialising in Computer Telecommunications and
+  International Marketing and Business Strategy
+- 1988-1989 Military service, anti-tank unit. My rank is corporal
+  (alikersantti is the Finnish term).
+
+** Related work experience
+
+- 2014-present Nokia as Nokia bought back NSN. The work stays the same
+  though.
+- 2007-2014 Nokia Siemens Networks. I work as a system architect with
+  platform definition topics for our mobile network gateway product.
+- 1996-2007 Nokia. Work has included encapsulating 3rd party products
+  in Corba / Java wrappers, working on internal tools and web
+  applications with Perl, and work on GPRS and 3G network
+  elements. For the 3G SGSN, I was involved with SS7 signalling and
+  element management, for the GGSN, element management.
+- From 2000 to June 1st 2006 I was a team leader with
+  subordinates. After that I switched to the technology and
+  architecture team without subordinates for a change.
+- 1990-1996 Polycon Ab. Work can be characterised as consulting,
+  working mostly with custom database applications in the
+  administrative area. The main tools included Focus, Visual Basic and
+  Delphi. As part of the work I also set up the company web server and
+  CVS version control services. I worked mostly part-time while
+  studying, but there were periods of full-time work too.
