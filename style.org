@@ -1,0 +1,57 @@
+# -*- coding: utf-8 -*-
+#+TITLE: Style
+#+TAGS: 
+#+OPTIONS:   H:6 num:t toc:nil \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:t
+
+#+HTML_HEAD_EXTRA: <style type="text/css">
+#+HTML_HEAD_EXTRA:  html { font-family: Helvetica, Arial, sans-serif; font-size: 11pt; margin-left: 72pt; width: 600pt; }
+#+HTML_HEAD_EXTRA:   .title  { text-align: left; }
+#+HTML_HEAD_EXTRA:   .todo   { color: red; }
+#+HTML_HEAD_EXTRA:   .done   { color: green; }
+#+HTML_HEAD_EXTRA:   .tag    { background-color: #add8e6; font-weight:normal }
+#+HTML_HEAD_EXTRA:   .target { }
+#+HTML_HEAD_EXTRA:   .timestamp { color: #bebebe; }
+#+HTML_HEAD_EXTRA:   .timestamp-kwd { color: #5f9ea0; }
+#+HTML_HEAD_EXTRA:   .right  { text-align: right;}
+#+HTML_HEAD_EXTRA:   .left   { text-align: left;}
+#+HTML_HEAD_EXTRA:   .center { text-align: center;}
+#+HTML_HEAD_EXTRA:   p.verse { margin-left: 3% }
+#+HTML_HEAD_EXTRA:   pre {
+#+HTML_HEAD_EXTRA:     border: 1pt solid #AEBDCC;
+#+HTML_HEAD_EXTRA:     background-color: #F3F5F7;
+#+HTML_HEAD_EXTRA:     padding: 5pt;
+#+HTML_HEAD_EXTRA:     font-family: courier, monospace;
+#+HTML_HEAD_EXTRA:     font-size: 90%;
+#+HTML_HEAD_EXTRA:     overflow: auto;
+#+HTML_HEAD_EXTRA:   }
+#+HTML_HEAD_EXTRA:   .section-number-2 { float: left; margin-left: -72pt; width: 66pt; text-align: right; }
+#+HTML_HEAD_EXTRA:   .section-number-3 { float: left; margin-left: -72pt; width: 66pt; text-align: right; }
+#+HTML_HEAD_EXTRA:   .section-number-4 { float: left; margin-left: -72pt; width: 66pt; text-align: right; }
+#+HTML_HEAD_EXTRA:   .section-number-5 { float: left; margin-left: -72pt; width: 66pt; text-align: right; }
+#+HTML_HEAD_EXTRA:   h1 { font-size: 24pt; line-height: 24pt; letter-spacing: -0.05em; color: black; }
+#+HTML_HEAD_EXTRA:   h2 { font-size: 18pt; margin-top: 1em; margin-bottom: 0em; color: grey; }
+#+HTML_HEAD_EXTRA:   h3 { font-size: 16pt; margin-top: 1em; margin-bottom: 0em; color: grey; }
+#+HTML_HEAD_EXTRA:   h4 { font-size: 14pt; margin-top: 1em; margin-bottom: 0em; color: grey; }
+#+HTML_HEAD_EXTRA:   h5 { font-size: 12pt; margin-top: 1em; margin-bottom: 0em; color: grey; }
+#+HTML_HEAD_EXTRA:   h6 { font-size: 11pt; margin-top: 1em; margin-bottom: 0em; color: grey; }
+#+HTML_HEAD_EXTRA:   table { border-collapse: collapse; }
+#+HTML_HEAD_EXTRA:   td, th { vertical-align: top;  }
+#+HTML_HEAD_EXTRA:   th.right  { text-align: center; }
+#+HTML_HEAD_EXTRA:   th.left   { text-align: center;  }
+#+HTML_HEAD_EXTRA:   th.center { text-align: center; }
+#+HTML_HEAD_EXTRA:   td.right  { text-align: right; }
+#+HTML_HEAD_EXTRA:   td.left   { text-align: left; }
+#+HTML_HEAD_EXTRA:   td.center { text-align: center; }
+#+HTML_HEAD_EXTRA:   dt { font-weight: bold; }
+#+HTML_HEAD_EXTRA:   div.figure { padding: 0.5em; }
+#+HTML_HEAD_EXTRA:   div.figure p { text-align: center; }
+#+HTML_HEAD_EXTRA:   div.inlinetask {
+#+HTML_HEAD_EXTRA:     padding: 10px;
+#+HTML_HEAD_EXTRA:     border :2px solid gray;
+#+HTML_HEAD_EXTRA:     margin: 10px;
+#+HTML_HEAD_EXTRA:     background: #ffffcc;
+#+HTML_HEAD_EXTRA:   }
+#+HTML_HEAD_EXTRA:   textarea { overflow-x: auto; }
+#+HTML_HEAD_EXTRA:   .linenr { font-size: smaller; }
+#+HTML_HEAD_EXTRA:   .code-highlighted { background-color:#ffff00; }
+#+HTML_HEAD_EXTRA: </style>
