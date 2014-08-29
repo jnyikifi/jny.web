@@ -2,8 +2,17 @@
 #+STARTUP: overview
 #+TITLE: jny.web
 #+TAGS: jnyweb
-#+OPTIONS:   H:6 num:t toc:nil \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:t
+#+OPTIONS:   H:6 num:t toc:t \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:t
 #+INCLUDE: style.org
+
+* Me elsewhere on the web
+
+- [[http://twitter.com/jnyikifi][Twitter / jnyikifi]]
+- [[https://www.facebook.com/kristoffer.nyberg][Facebook]]
+- [[http://www.linkedin.com/in/kristoffernyberg][LinkedIn]]
+- [[http://flickr.com/photos/macktastic_k_dazzle/][Flickr]]
+- [[https://www.youtube.com/user/macktastickdazzle][Youtube]]
+- [[https://www.tumblr.com/blog/jnyikifi][Tumblr.]]
 
 * About the name jny
 
@@ -72,3 +81,4 @@ Title: Master of Science in Technology
   Delphi. As part of the work I also set up the company web server and
   CVS version control services. I worked mostly part-time while
   studying, but there were periods of full-time work too.
+
