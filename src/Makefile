@@ -13,7 +13,7 @@ $(OUT_DIR):
 	mkdir -v -p $(OUT_DIR)
 
 %.html: %.org
-	emacs --batch -l ~/.emacs $< -f org-html-export-as-html --kill
+	echo $<
 
 $(OUT_DIR)/%.html: %.html
 	install -v -m 644 -t $(OUT_DIR) $<
