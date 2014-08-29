@@ -3,7 +3,7 @@
 #+TITLE: jny.web
 #+TAGS: jnyweb
 #+OPTIONS:   H:6 num:t toc:t \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:t
-#+INCLUDE: style.org
+#+SETUPFILE: ./style.org
 
 * Me elsewhere on the web
 
